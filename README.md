@@ -11,4 +11,4 @@ With this model I got an accuracy of 0.6758.
 
 My recommendation for those who are interested by this model is to quantify some categorial variable (like courtType, groundType, TournamentCode (I have already quantify these variables ^^ and I have not incorporate them in the model)) and try to improve the accuracy.
 
-If someone want the update database contact me: "nanemawendemi@gmail.com"
+If someone want the update database contact me: nanemawendemi@gmail.com
