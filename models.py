@@ -74,7 +74,7 @@ def get_player_id(player_name, role="Player_1"):
     else:
         return None
 
-# Utilisation de la fonction pour obtenir les identifiants
+# Using the function to get id
 firstPlayer = "Lehecka J."
 firstOpponent = "Thompson J."
 
